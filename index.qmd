@@ -1,0 +1,11 @@
+---
+title: "Quarto MWE"
+format: html
+---
+
+```{julia}
+#| label: fig-index-plot
+#| fig-cap: "A plot of the sine function"
+using Plots
+plot(sin, -2π, 2π)
+```

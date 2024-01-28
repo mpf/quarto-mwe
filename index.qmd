@@ -1,6 +1,7 @@
 ---
 title: "Quarto MWE"
 format: html
+keep-ipynb: true
 ---
 
 ```{julia}

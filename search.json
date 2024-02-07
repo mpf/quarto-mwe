@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto MWE",
+    "section": "",
+    "text": "Math Slide"
+  },
+  {
+    "objectID": "math-slide.html#slide",
+    "href": "math-slide.html#slide",
+    "title": "Math Slide",
+    "section": "Slide",
+    "text": "Slide\n\\[\n\\alpha + \\beta = \\gamma\n\\]"
+  }
+]

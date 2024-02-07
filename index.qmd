@@ -1,14 +1,6 @@
 ---
 title: "Quarto MWE"
 format: html
-keep-ipynb: true
 ---
 
-```{julia}
-#| echo: true  # <-- preview throws error if 'false'
-#| label: fig-index-plot
-#| output: true
-#| fig-cap: "A plot of the sine function"
-using Plots
-plot(sin, -2π, 2π)
-```
+[Math Slide](math-slide.qmd)
